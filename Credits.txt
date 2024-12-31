@@ -1,0 +1,1 @@
+https://tools.wwwtyro.net/space-3d/index.html#animationSpeed=1&fov=80&nebulae=true&pointStars=true&resolution=4096&seed=6q7r3dbjyuw0&stars=true&sun=true - Skybox (seed 6q7r3dbjyuw0)
